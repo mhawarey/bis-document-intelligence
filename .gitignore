@@ -1,0 +1,45 @@
+# Data files
+*.db
+*.sqlite
+*.sqlite3
+
+# BIS PDF papers (copyrighted, not redistributed)
+BIS10/*.pdf
+*.pdf
+
+# Generated reports
+*.docx
+
+# Screenshots
+*.png
+*.jpg
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Chat logs
+chat-*.docx
