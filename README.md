@@ -1,5 +1,7 @@
 # BIS Document Intelligence & Governance Analysis System
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 **AI/ML-Powered RAG Pipeline for Banking Regulatory Document Analysis**
 
 An advanced Retrieval-Augmented Generation (RAG) system that ingests, indexes, and analyzes large corpora of regulatory documents from the Bank for International Settlements (BIS). The system performs automated governance analysis, regulatory anomaly detection, and compliance gap identification across thousands of pages of financial policy documents.
